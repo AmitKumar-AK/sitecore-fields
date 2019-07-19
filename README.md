@@ -79,4 +79,7 @@ Where Width is 150px and Height is 80px.
 - .NET Framework 4.7.1
 - Sitecore Version: Sitecore.NET 9.1.0 (rev. 001564)
 
+# Credit:
+A big thanks to Saad Ahmed Khan (https://twitter.com/saad_ahmed_khan) for creating the module and Khushboo Sorthiya (https://twitter.com/khush_Sorthiya) to provide details about experience editor improvements
+
 
