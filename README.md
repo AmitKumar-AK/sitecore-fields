@@ -74,12 +74,15 @@ The cshtml file code for the promo content present at https://github.com/AmitKum
 Where Width is 150px and Height is 80px.
 
 
-
-# Updates:
+# Updates: Changes done for Sitecore 9.x
 - .NET Framework 4.7.1
 - Sitecore Version: Sitecore.NET 9.1.0 (rev. 001564)
 
 # Credit:
 A big thanks to Saad Ahmed Khan (https://twitter.com/saad_ahmed_khan) for creating the module and Khushboo Sorthiya (https://twitter.com/khush_Sorthiya) to provide details about experience editor improvements
+
+# Reference:
+- https://inverseproportion.wordpress.com/2017/04/12/image-field-with-focus-cropper-in-sitecore/
+- https://sitecorecorner.wordpress.com/2019/06/29/advance-image-module-to-implement-focal-point-functionality-in-sitecore/
 
 
